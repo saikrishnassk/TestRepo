@@ -1,4 +1,4 @@
-Hi commit failure there! 
+Test for Failure
 
 New line!
 
